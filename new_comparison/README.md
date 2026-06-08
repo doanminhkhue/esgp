@@ -1,4 +1,4 @@
 - In this folder, we compare two approaches to compute fitness: ES-MTGPFL and MTGCN.
 - When comparing ES-MTGPFL with other approaches (such as increase_p, use XGBoosts for global surrogate model,..), we found that ES-MTGPFL is the best approach.
 - So that, we now only compare ES-MTGPFL with the new approach (MTGCN) to find out the better.
-- Moreover, we also improve feature extraction strategy the two approaches in this folder. This is because when applying old feature extraction strategy in outer files for MTGCN, MTGCN cannot show its ability.
+- Moreover, we also improve feature extraction strategy in the two approaches in this folder. This is because when applying old feature extraction strategy in outer files for MTGCN, MTGCN cannot show its ability.
